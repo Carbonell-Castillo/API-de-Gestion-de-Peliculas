@@ -85,11 +85,6 @@ Este endpoint permite actualizar la información de una película existente.
 - **Error de Solicitud (Código 400):** La solicitud no contiene los datos necesarios.
 - **No Encontrado (Código 404):** No se encontró una película con el ID especificado.
 
-## Agradecimientos
-
-Agradecemos el uso de Flask y Flask-CORS para el desarrollo de esta API.
-
-¡Disfruta gestionando tu base de datos de películas con esta sencilla API!
 
 ---
 
